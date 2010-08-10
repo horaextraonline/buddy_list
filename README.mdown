@@ -7,6 +7,7 @@ O buddy list é o primeiro projeto do grupo de estudos do Hora extra SP
 ## Instalação ##
 
 Ruby 1.8.7
+
 Rails 3 RC
 
 ### Configurando o projeto em 6 passos ###
