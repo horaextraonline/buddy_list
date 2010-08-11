@@ -13,7 +13,7 @@ Rails 3 RC
 ### Configurando o projeto em 6 passos ###
 
 1. Faça um clone do projeto no github
-    `git clone git@github.com:horaextrasp/buddy_list.git`
+    `git clone git@github.com:horaextraonline/buddy_list.git`
 
 1. Instale o bundler para instalar as gems do projeto
     `gem install bundler --pre (--pre server para instalar a versão Release Candidate)`
